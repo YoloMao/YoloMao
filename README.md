@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YoloMao
 - 👀 I’m interested in iOS
-- 🌱 I’m currently learning reverse engineering and design pattern
+- 🌱 I’m currently learning everything
 
 <!---
 YoloMao/YoloMao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
